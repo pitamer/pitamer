@@ -1,10 +1,10 @@
 ![alt text](./images/top-decoration.svg)
-<h2 align="center">Hi There! &nbsp;👋</h2>
-<h3 align="center">I'm Itamar, A software developer</h3>
+<h3 align="center">Hi There! &nbsp;👋</h3>
+<h4 align="center">I'm Itamar, A software developer</h4>
 
 <br>
 
-## &nbsp;💬&nbsp; TL;DR
+### &nbsp;💬&nbsp; TL;DR
 
 A self-taught programmer.
 
@@ -14,7 +14,7 @@ Currently working on super cool things at [Codicate](https://www.codicate.com/).
 
 <br>
 
-## &nbsp;⚗️&nbsp; Professional Interest
+### &nbsp;⚗️&nbsp; Professional Interest
 
 I fancy full stack web development.
 I particularly enjoy creating **rich user interfaces**, **data visualizations** and elegant **APIs**.
@@ -23,7 +23,7 @@ As a hobby I'm also into low level hardware stuff, teaching beginners how to cod
 
 <br>
 
-## &nbsp;⚙️&nbsp; Technologies I use frequently
+### &nbsp;⚙️&nbsp; Technologies I use frequently
 
 <p>
 <img src="https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -43,7 +43,7 @@ As a hobby I'm also into low level hardware stuff, teaching beginners how to cod
 
 <br>
 
-## &nbsp;🔬&nbsp; Technologies I'm currently learning
+### &nbsp;🔬&nbsp; Technologies I'm currently learning
 <p>
 <img src="https://img.shields.io/badge/Rust-f54b00.svg?&style=for-the-badge&logo=Rust&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/arduino-03979c.svg?&style=for-the-badge&logo=arduino&logoColor=white" height="25"/>
@@ -53,7 +53,7 @@ As a hobby I'm also into low level hardware stuff, teaching beginners how to cod
 
 <br>
 
-## &nbsp;🤙&nbsp; Contact
+### &nbsp;🤙&nbsp; Contact
 
 My email starts with `itamarga` and ends with `gmail.com`.
 
