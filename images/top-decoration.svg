@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="150" viewBox="0 0 1080 130" xml:space="preserve">
+<desc>A simple green top decoration</desc>
+<defs>
+</defs>
+<g transform="matrix(0 0 0 0 0 0)" id="9c69cc26-7015-4758-aaf5-6a2cb0634cf9"  >
+</g>
+<g transform="matrix(1 0 0 1 540 75)" id="fbd6dabc-fd49-48ae-8c3d-68130d51a57a"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-540" y="-75" rx="0" ry="0" width="1080" height="150" />
+</g>
+<g transform="matrix(15.09 0.95 -0.16 2.49 563.13 6.2)" id="6fc9bc0e-c2ca-4af5-9942-ed7cbd88f98f"  >
+<rect style="stroke: rgb(0,152,6); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(86,184,90); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-37.46" y="-19.415" rx="0" ry="0" width="74.92" height="38.83" />
+</g>
+<g transform="matrix(14.91 0.93 -0.01 0.2 536.35 64.76)" id="56fb2e0d-8ae4-4b9a-8434-be0fd49bc846"  >
+<rect style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(86,184,90); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-37.46" y="-19.415" rx="0" ry="0" width="74.92" height="38.83" />
+</g>
+</svg>
