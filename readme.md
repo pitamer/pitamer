@@ -31,6 +31,7 @@ As a hobby I'm also into low level hardware stuff, teaching beginners how to cod
 <img src="https://img.shields.io/badge/React-11cafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/HTML-red.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/css-0397e0.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/SASS-cf649a.svg?&style=for-the-badge&logo=sass&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/material%20UI-0081cb.svg?&style=for-the-badge&logo=material-ui&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Flask-111111.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/SQL-aac252.svg?&style=for-the-badge&logo=none&logoColor=white" height="25"/>
