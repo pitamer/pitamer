@@ -29,6 +29,7 @@ As a hobby I'm also into low level hardware stuff, teaching beginners how to cod
 <img src="https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React-11cafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Vue-41b883.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/HTML-red.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/css-0397e0.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/SASS-cf649a.svg?&style=for-the-badge&logo=sass&logoColor=white" height="25"/>
@@ -48,7 +49,6 @@ As a hobby I'm also into low level hardware stuff, teaching beginners how to cod
 <p>
 <img src="https://img.shields.io/badge/Rust-f54b00.svg?&style=for-the-badge&logo=Rust&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/arduino-03979c.svg?&style=for-the-badge&logo=arduino&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Vue-41b883.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React%20Native-11cafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
 </p>
 
