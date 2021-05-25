@@ -52,6 +52,7 @@ As a hobby I'm also into low level hardware stuff, teaching beginners how to cod
 <p>
 <img src="https://img.shields.io/badge/arduino-03979c.svg?&style=for-the-badge&logo=arduino&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React%20Native-11cafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Typesctipt-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 </p>
 
 <br>
