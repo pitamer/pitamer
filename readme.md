@@ -8,23 +8,23 @@
 <p align="center">
 
 <a href="https://www.itamarga.com">
-  <img alt="guilyx's Instagram" width="35x" src="https://image.flaticon.com/icons/svg/1674/1674969.svg" />
+  <img alt="pitamer's website" width="35x" src="https://img.icons8.com/fluent/96/000000/domain.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://pita.tech">
-  <img alt="guilyx's Spotify" width="35x" src="https://image.flaticon.com/icons/svg/1187/1187544.svg" />
+  <img alt="pitamer's blog" width="35x" src="https://img.icons8.com/fluent/96/000000/blog.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/14070872/pitamer">
-  <img alt="guilyx's Facebook" width="35x" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />
+  <img alt="Stack Overflow" width="35x" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/itamarga/">
-  <img alt="guilyx's LinkdeIN" width="35x" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  <img alt="LinkedIn" width="35x" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/itamar_galili">
-  <img alt="guilyx | Twitter" width="35x" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+  <img alt="Twitter" width="35x" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
 </a>
 
 </p>
