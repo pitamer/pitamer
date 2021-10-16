@@ -12,7 +12,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://pita.tech">
-  <img alt="pitamer's blog" width="35x" src="https://img.icons8.com/fluent/96/000000/blog.png" />
+  <img alt="pitamer's blog" width="35x" src="https://img.icons8.com/fluent/96/000000/copybook.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/14070872/pitamer">
