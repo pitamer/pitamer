@@ -8,23 +8,23 @@
 <p align="center">
 
 <a href="https://www.itamarga.com">
-  <img alt="pitamer's website" width="35x" src="https://img.icons8.com/fluent/96/000000/domain.png" />
+  <img alt="pitamer's website" height="32" src="https://img.icons8.com/fluent/96/000000/domain.png" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://pita.tech">
-  <img alt="pitamer's blog" width="35x" src="https://img.icons8.com/fluent/96/000000/copybook.png" />
+  <img alt="pitamer's blog" height="32" src="https://img.icons8.com/fluent/96/000000/copybook.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/14070872/pitamer">
-  <img alt="Stack Overflow" width="35x" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />
+  <img alt="Stack Overflow" height="34" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/itamarga/">
-  <img alt="LinkedIn" width="35x" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  <img alt="LinkedIn" height="34" src="https://img.icons8.com/color/50/000000/linkedin.png" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/itamar_galili">
-  <img alt="Twitter" width="35x" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+  <img alt="Twitter" height="32" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
 </a>
 
 </p>
