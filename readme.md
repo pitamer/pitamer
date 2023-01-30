@@ -73,6 +73,15 @@ Ex-[8200](https://en.wikipedia.org/wiki/Unit_8200); Currently working on some se
 
 <img src="https://img.shields.io/badge/git-df5b3d.svg?&style=for-the-badge&logo=git&logoColor=white" height="24"/>
 
+<img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?&style=for-the-badge&logo=Pytest&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Vite-646CFF.svg?&style=for-the-badge&logo=Vite&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Rollup-EC4A3F.svg?&style=for-the-badge&logo=Rollup.js&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=for-the-badge&logo=GitHub Actions&logoColor=white" height="24"/>
+
+
 </p>
 
 <br>
